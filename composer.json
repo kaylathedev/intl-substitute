@@ -1,5 +1,5 @@
 {
-    "name": "wafflestealer654/gpio",
+    "name": "wafflestealer654/intl-substitute",
     "type": "library",
     "description": "A PHP Library those who don't have PHP's intl extension.",
     "keywords": ["intl", "php"],
